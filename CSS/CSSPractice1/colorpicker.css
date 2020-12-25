@@ -1,0 +1,25 @@
+/*use this name: "color picker" to search for the color number*/
+
+h1{
+	color: #542079;
+	border: 2px dashed blue;
+}
+
+/*rgb (x, y, z) x,y,z range 0 - 255*/
+
+li{
+	color: rgb(0, 100, 180);
+}
+
+/*rgb (x,y,z,w) w range from 0.0 - 1.0*/ 
+
+h3{
+	color: rgb(200, 0, 170, 1.0);
+}
+
+body{
+	background: url(dog.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
